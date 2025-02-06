@@ -1,5 +1,8 @@
 Доброго времени суток, меня зовут Тимофей, здесь собраны мои профессиональнфе сертификаты об обучении: 
 
 🎓 Сертификаты:
-- [Data Science with Python - Coursera](https://github.com/yourusername/certificates/blob/main/data_science_python.pdf)
-- [SQL for Data Analysis - Udacity](https://github.com/yourusername/certificates/blob/main/sql_for_data_analysis.pdf)
+- Google Data Analytics certificate (https://github.com/TimofeyOmelchenko/certificates/blob/main/Google%20Data%20Analytics%20certificate%20.pdf)
+- Python certificate (https://github.com/TimofeyOmelchenko/certificates/blob/main/Python%20certificate.pdf)
+- IELTS certificate (https://github.com/TimofeyOmelchenko/certificates/blob/main/IELTS%20certificate.pdf)
+- Html5 certificate (https://github.com/TimofeyOmelchenko/certificates/blob/main/Html5%20certificate.pdf)
+- В данный момент прохожу Karpov Courses по A/B тестированию и Hard Analytics
